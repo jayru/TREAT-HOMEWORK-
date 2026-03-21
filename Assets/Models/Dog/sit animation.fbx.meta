@@ -3,7 +3,12 @@ guid: b4fa513125e29004592bf87879712d17
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShepherdMix_mat
+    second: {fileID: 2100000, guid: 6bb0302d7c3108744b8649fbfe8a6c4e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
